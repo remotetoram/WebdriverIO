@@ -1,0 +1,8 @@
+{
+    "cucumberautocomplete.steps": [
+        "./b2b/src/test/java/com/pepsico/b2b/steps/*.java"
+    ],
+    "cucumberautocomplete.syncfeatures": "../b2b/src/test/resources/features/*feature", 
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
